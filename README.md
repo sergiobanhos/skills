@@ -22,6 +22,12 @@ skills/
 - Twitter/X: [@banhosdev](https://x.com/banhosdev)
 - Instagram: [@banhosdev](https://instagram.com/banhosdev)
 
+## Meu SaaS / Patrocinadores
+
+- [**CvPorVaga**](https://cvporvaga.com.br) — Melhore seu currículo com IA
+- [**Verboo Code**](https://code.verboo.ai) — Programe com IA com tokens ilimitados
+- [**Whatsmiau**](https://whatsmiau.dev) — API de WhatsApp que não cai
+
 ---
 
 Mais skills chegando em breve.
