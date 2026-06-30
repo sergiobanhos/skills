@@ -18,7 +18,7 @@ skills/
 
 ## Links
 
-- Site: [banhosdev.com](https://banhosdev.com)
+- Site: [sergiobanhos.com.br](https://sergiobanhos.com.br)
 - Twitter/X: [@banhosdev](https://x.com/banhosdev)
 - Instagram: [@banhosdev](https://instagram.com/banhosdev)
 
