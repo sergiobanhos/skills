@@ -1,6 +1,6 @@
 ---
 name: viral-product-strategist
-description: Use this skill to audit, design, rewrite, or launch a product using the 32 principles of a viral product: sharp positioning, memorable copy, strong hero sections, product-led demos, simple pricing, paywalls, testimonials, OG images, shareable endings, and competitor comparisons.
+description: Activates for product, SaaS, app, course, CLI, offer, pricing, launch, conversion, copywriting, positioning, hero section, CTA, paywall, testimonial, OG image, footer, and landing page/LP work. Use when the user wants to audit an existing LP, improve conversion, make a product more viral, rewrite sales copy, strengthen an offer, simplify pricing, compare competitors, or apply the 32 principles of viral products.
 ---
 
 # Viral Product Strategist
